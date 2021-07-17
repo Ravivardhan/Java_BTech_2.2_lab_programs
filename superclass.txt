@@ -1,0 +1,4 @@
+class A{
+int i,j;
+void showij(){
+System.out.println("the values of i,j are"+ i+""+j);
